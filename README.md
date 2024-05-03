@@ -8,7 +8,7 @@ I'm 22 years old, currently living in São Paulo, Brazil. Outside the world of c
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 ![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -18,14 +18,14 @@ I'm 22 years old, currently living in São Paulo, Brazil. Outside the world of c
 ![MySQL](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=d3d3d3)
 
 ---
-## 💻 Ferramentas de desenvolvimento
+## 💻 Development Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio-code&logoColor=A020F0)
 
-### Experiência de trabalho
+### Work experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFn24ZlfExHNA/company-logo_200_200/0/1635421841147?e=2147483647&v=beta&t=WCMpFS8zDqSjlt7Y6noOxCLfTp4V3pV4p1F5TsrrElI"/>](https://www.vbsall.com.br)
 
@@ -40,7 +40,7 @@ Linguagens & Tecnologias: `Oracle`, `C#`, `JavaScript`, `.Net`\
 
 ---
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-henrique-2631931b2/)](https://www.linkedin.com/in/gabriel-henrique-2631931b2/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
