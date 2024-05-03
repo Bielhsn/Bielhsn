@@ -36,8 +36,9 @@ Linguagens & Tecnologias: `Oracle`, `C#`, `JavaScript`, `.Net`\
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bielhsn&show_icons=true)
+[![bielhsn](https://github-readme-stats.vercel.app/api?username=bielhsn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![bielhsn](https://github-readme-stats.vercel.app/api/top-langs/?username=bielhsn&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Where to find me
