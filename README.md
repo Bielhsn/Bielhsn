@@ -1,37 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Henrique
-========================================================================================================================================
+## 👋 Hello, my name is Gabriel Henrique!
 
-Systems analysis and development student
-----------------------------------------
+I'm 22 years old, currently living in São Paulo, Brazil. Outside the world of coding, I enjoy practicing sports like basketball, hitting the gym, and Muay Thai. I always strive to stay updated on what's happening in the world. I've been in the field for 2 years and I'm a full-stack programmer with a focus on JavaScript, C#, and Oracle SQL.
 
-I study Ads at Fiap college where I learn to be a full stack programmer
+🔭 I'm currently working on an Artificial Intelligence project involving Natural Language Processing (NLP).
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [gabrielhenrique.ghsn@gmail.com](mailto:gabrielhenrique.ghsn@gmail.com)
-* ⚡  I love sports mostly basketball, muay thai and gym
+💬 You can contact me via my email: gabrielhenrique.hsn@gmail.com
 
-### Skills
+---
 
+## 🚀 Minhas Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-</p>
+![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=d3d3d3)
 
+---
+## 💻 Ferramentas de desenvolvimento
 
-### Socials
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio-code&logoColor=A020F0)
 
-<p align="left"> <a href="https://www.github.com/Bielhsn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-henrique-2631931b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Experiência de trabalho
 
-### Badges
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<b>My GitHub Stats</b>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFn24ZlfExHNA/company-logo_200_200/0/1635421841147?e=2147483647&v=beta&t=WCMpFS8zDqSjlt7Y6noOxCLfTp4V3pV4p1F5TsrrElI"/>](https://www.vbsall.com.br)
 
-<a href="http://www.github.com/Bielhsn"><img src="https://github-readme-stats.vercel.app/api?username=Bielhsn&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bielhsn's GitHub stats" /></a>
+**Full Stack Developer** \
+[**VBS**](https://www.vbsall.com.br)  \
+Linguagens & Tecnologias: `Oracle`, `C#`, `JavaScript`, `.Net`\
+<br/>
 
-<a href="http://www.github.com/Bielhsn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bielhsn&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## ⭐ GitHub Stats
 
-<a href="https://github.com/Bielhsn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielhsn&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bielhsn&show_icons=true)
+
+---
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-henrique-2631931b2/)](https://www.linkedin.com/in/gabriel-henrique-2631931b2/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/bielhsn?label=follow&style=social)](https://github.com/Bielhsn)
