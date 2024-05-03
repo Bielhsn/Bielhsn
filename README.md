@@ -8,8 +8,7 @@ I study Ads at Fiap college where I learn to be a full stack programmer
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [gabrielhenrique.ghsn@gmail.com](mailto:gabrielhenrique.ghsn@gmail.com)
-* 🤝  I'm open to collaborating on Systems analysis and development and web developer
-* ⚡  I love sports mostly basketball and gym
+* ⚡  I love sports mostly basketball, muay thai and gym
 
 ### Skills
 
