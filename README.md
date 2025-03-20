@@ -1,6 +1,6 @@
 ## 👋 Hello, my name is Gabriel Henrique!
 
-I'm 23 years old, currently living in São Paulo, Brazil. Outside the world of coding, I enjoy practicing sports like basketball, hitting the gym, and Muay Thai. I always strive to stay updated on what's happening in the world. I've been in the field for 2 years and I'm a full-stack programmer with a focus on React, C#, and Oracle SQL.
+I'm 23 years old, currently living in São Paulo, Brazil. Outside the world of coding, I enjoy practicing sports like basketball, hitting the gym, and Muay Thai. I always strive to stay updated on what's happening in the world. I've been in the field for 3 years and I'm a full-stack programmer with a focus on React, C#, and Oracle SQL.
 
 💬 You can contact me via my email: gabrielhenrique.hsn@gmail.com
 
