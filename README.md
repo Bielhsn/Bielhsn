@@ -28,16 +28,22 @@ In the overview below you will find my most recent work experience:
 
 **Full Stack Developer** \
 [**VBS**](https://www.vbsall.com.br)  \
-Linguagens & Tecnologias: `Oracle`, `C#`, `JavaScript`, `.Net`\
+Languages ​​& Technologies: `Oracle`, `C#`, `JavaScript`, `.Net`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/f4faf9cd-5b9c-480c-8c3f-cb85621d9038"/>](https://imunoehemato.com.br)
 
 **Full Stack Developer** \
 [**Imuno & Hemato**](https://imunoehemato.com.br)  \
-Linguagens & Tecnologias: `TypeScript`, `React`, `API`\
+Languages ​​& Technologies: `TypeScript`, `React`, `API`\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431016987-ae492889-e15d-4dfe-bc81-b471fa5bf0fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQwNDE4MzIsIm5iZiI6MTc0NDA0MTUzMiwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE2OTg3LWFlNDkyODg5LWUxNWQtNGRmZS1iYzgxLWI0NzFmYTViZjBmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwN1QxNTU4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTc4OTRkZjdkZjNmODIzY2FmZTFkYTYwZTljMmE3MmE0OWVhMzM2N2Q4NTg1YzZiNGUzYzY4ODRjMzFjOWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WJt8ma_eOTIEnp7D3ySIKJwPD6DtMETlwHY2xx1ip9M"/>](https://barcellona.com.br)
+
+**Full Stack Developer** \
+[**Barcellona BarberShop**](https://barcellona.com.br)  \
+Languages ​​& Technologies: `TypeScript`, `React`, `API`\
+<br/>
 ## ⭐ GitHub Stats
 
 [![bielhsn](https://github-readme-stats.vercel.app/api?username=bielhsn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
