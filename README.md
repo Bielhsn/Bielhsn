@@ -19,7 +19,6 @@ I'm 23 years old, currently living in São Paulo, Brazil. Outside the world of c
 ![MySQL](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=d3d3d3)
 
 ---
-
 ### Work experience
 
 In the overview below you will find my most recent work experience:
@@ -43,6 +42,13 @@ Languages ​​& Technologies: `TypeScript`, `React`, `API`\
 **Full Stack Developer** \
 [**Barcellona BarberShop**](https://barcellona.com.br)  \
 Languages ​​& Technologies: `TypeScript`, `React`, `API`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431018285-0121c6ef-5f35-448b-9058-9037429301b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQwNDE5MzYsIm5iZiI6MTc0NDA0MTYzNiwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE4Mjg1LTAxMjFjNmVmLTVmMzUtNDQ4Yi05MDU4LTkwMzc0MjkzMDFiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwN1QxNjAwMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOGY3MmFkYmI5M2QwNTVhMzMxMzIxODg1N2FkNjE5YzRhZjQ4MTMzZDU0MjRiMzAxM2QzMmE0OWNhMDkxNTMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0nXspdnWiYQKhxyNXDeYq15otERSEwOB6SwwvcDuGNE"/>](https://bexos.com.br)
+
+**Full Stack Developer** \
+[**Bexos**](https://Bexos.com.br)  \
+Languages ​​& Technologies: `TypeScript`, `React`, `API`, `Node.js`, `MongoDB`\
 <br/>
 ## ⭐ GitHub Stats
 
