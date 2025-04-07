@@ -2,8 +2,7 @@
 
 I'm 23 years old, currently living in São Paulo, Brazil. Outside the world of coding, I enjoy practicing sports like basketball, hitting the gym, and Muay Thai. I always strive to stay updated on what's happening in the world. I've been in the field for 3 years and I'm a full-stack programmer with a focus on React, TypeScript, JavaScript, Oracle SQL and MongoDB.
 
-💬 You can contact me via my email: gabrielhenrique.hsn@gmail.com
-
+💬 You can see more about me at: [My portfolio](https://portifolio-project-gabrielhenriquehsngmailcoms-projects.vercel.app)
 ---
 
 ## 🚀 My Skills
