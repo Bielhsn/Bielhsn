@@ -2,23 +2,12 @@
 
 Experienced Full Stack Developer with a proven track record of delivering impactful digital solutions. I am passionate about creating efficient, scalable applications that drive growth and innovation for businesses and individuals.
 
-Expertise in:
+- Extensive experience working in agile teams and remote environments.
+- Problem solver with a proactive mindset, always looking for ways to improve and optimize.
+- Passionate about crafting well-structured and efficient code that scales.
+- Self-taught, constantly learning, and driven by the challenge of turning ideas into impactful solutions.
 
-✔️ JavaScript, TypeScript, and modern front-end frameworks (React, Vue, Angular);
-✔️ Back-end development with .NET and Go;
-✔️ Building responsive and efficient UIs with Tailwind, HTML, and CSS;
-✔️ Database management with MongoDB and SQL;
-✔️ Docker and Vite for development and deployment pipelines;
-✔️ Writing clean, reusable, and testable code with a focus on high performance.
-
-Other Skills:
-
-✔️ Extensive experience working in agile teams and remote environments.
-✔️ Problem solver with a proactive mindset, always looking for ways to improve and optimize.
-✔️ Passionate about crafting well-structured and efficient code that scales.
-✔️ Self-taught, constantly learning, and driven by the challenge of turning ideas into impactful solutions.
-
-Hobbies:
+## Hobbies
 
 - Basketball, Muay Thai and Gym;
 
