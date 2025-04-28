@@ -39,17 +39,16 @@ Languages ​​& Technologies: `Oracle`, `C#`, `JavaScript`, `.Net`\
 
 **Full Stack Developer** \
 [**Imuno & Hemato**](https://imunoehemato.com.br)  \
-Languages ​​& Technologies: `TypeScript`, `React`, `API`\
+Languages ​​& Technologies: `TypeScript`, `React`, `Node`, `API`, `MongoDB`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431016987-ae492889-e15d-4dfe-bc81-b471fa5bf0fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQwNDE4MzIsIm5iZiI6MTc0NDA0MTUzMiwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE2OTg3LWFlNDkyODg5LWUxNWQtNGRmZS1iYzgxLWI0NzFmYTViZjBmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwN1QxNTU4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTc4OTRkZjdkZjNmODIzY2FmZTFkYTYwZTljMmE3MmE0OWVhMzM2N2Q4NTg1YzZiNGUzYzY4ODRjMzFjOWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WJt8ma_eOTIEnp7D3ySIKJwPD6DtMETlwHY2xx1ip9M"/>](https://barcellona.com.br)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431016987-ae492889-e15d-4dfe-bc81-b471fa5bf0fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4MTQxNDQsIm5iZiI6MTc0NTgxMzg0NCwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE2OTg3LWFlNDkyODg5LWUxNWQtNGRmZS1iYzgxLWI0NzFmYTViZjBmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyOFQwNDE3MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYWEwOTM1ODQzYTg1ZDU3Y2VlMmUzNDMwN2I3MDZmMDAzMjlkZDQyMjAzZWMzYThlN2RlYTY0YWRkODMwZTg5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.br-87Il0ns4xYklLM5OdqfJZhS-0dICE_WK_kVcULZs"/>](https://barcellona.com.br)
 
 **Full Stack Developer** \
 [**Barcellona BarberShop**](https://barcellona.com.br)  \
-Languages ​​& Technologies: `TypeScript`, `React`, `API`\
+Languages ​​& Technologies: `TypeScript`, `React`, `Node`, `API`, `MongoDB`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431018285-0121c6ef-5f35-448b-9058-9037429301b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzMzQ5MTUsIm5iZiI6MTc0NDMzNDYxNSwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE4Mjg1LTAxMjFjNmVmLTVmMzUtNDQ4Yi05MDU4LTkwMzc0MjkzMDFiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwMTIzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNGY5NzY5NWJhYjk4NTM2MDBkYjI1ZmZkMThkZWI2NmExZjFhNWE1NWQ1YjY2YWU5MjU4MjFkYzM3OWMzNTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-sT9eeet5qlRifJAOTVgsqj4_5Unk6BlB_2M6t_lNyk"/>](https://bexos.com.br)
 ## ⭐ GitHub Stats
 
 [![bielhsn](https://github-readme-stats.vercel.app/api?username=bielhsn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
