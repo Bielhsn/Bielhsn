@@ -1,6 +1,26 @@
 ## 👋 Hello, my name is Gabriel Henrique!
 
-I'm 23 years old, currently living in São Paulo, Brazil. Outside the world of coding, I enjoy practicing sports like basketball, hitting the gym, and Muay Thai. I always strive to stay updated on what's happening in the world. I've been in the field for 3 years and I'm a full-stack programmer with a focus on React, TypeScript, JavaScript, Oracle SQL and MongoDB.
+Experienced Full Stack Developer with a proven track record of delivering impactful digital solutions. I am passionate about creating efficient, scalable applications that drive growth and innovation for businesses and individuals.
+
+Expertise in:
+
+✔️ JavaScript, TypeScript, and modern front-end frameworks (React, Vue, Angular);
+✔️ Back-end development with .NET and Go;
+✔️ Building responsive and efficient UIs with Tailwind, HTML, and CSS;
+✔️ Database management with MongoDB and SQL;
+✔️ Docker and Vite for development and deployment pipelines;
+✔️ Writing clean, reusable, and testable code with a focus on high performance.
+
+Other Skills:
+
+✔️ Extensive experience working in agile teams and remote environments.
+✔️ Problem solver with a proactive mindset, always looking for ways to improve and optimize.
+✔️ Passionate about crafting well-structured and efficient code that scales.
+✔️ Self-taught, constantly learning, and driven by the challenge of turning ideas into impactful solutions.
+
+Hobbies:
+
+- Basketball, Muay Thai and Gym;
 
 💬 You can see more about me at: [My portfolio](https://portifolio-project-gabrielhenriquehsngmailcoms-projects.vercel.app)
 ---
