@@ -9,12 +9,18 @@ I'm 23 years old, currently living in São Paulo, Brazil. Outside the world of c
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=d3d3d3)
 
 ---
@@ -44,11 +50,6 @@ Languages ​​& Technologies: `TypeScript`, `React`, `API`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431018285-0121c6ef-5f35-448b-9058-9037429301b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzMzQ5MTUsIm5iZiI6MTc0NDMzNDYxNSwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE4Mjg1LTAxMjFjNmVmLTVmMzUtNDQ4Yi05MDU4LTkwMzc0MjkzMDFiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwMTIzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNGY5NzY5NWJhYjk4NTM2MDBkYjI1ZmZkMThkZWI2NmExZjFhNWE1NWQ1YjY2YWU5MjU4MjFkYzM3OWMzNTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-sT9eeet5qlRifJAOTVgsqj4_5Unk6BlB_2M6t_lNyk"/>](https://bexos.com.br)
-
-**Full Stack Developer** \
-[**Bexos**](https://Bexos.com.br)  \
-Languages ​​& Technologies: `TypeScript`, `React`, `API`, `Node.js`, `MongoDB`\
-<br/>
 ## ⭐ GitHub Stats
 
 [![bielhsn](https://github-readme-stats.vercel.app/api?username=bielhsn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
