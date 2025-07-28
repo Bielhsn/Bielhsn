@@ -68,5 +68,5 @@ Languages ​​& Technologies: `TypeScript`, `React`, `Node`, `API`, `MongoDB`\
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-henrique-2631931b2/)](https://www.linkedin.com/in/gabriel-henrique-2631931b2/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielhenrique.hsn@gmail.com)](mailto:gabrielhenrique.hsn@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/bielhsn?label=follow&style=social)](https://github.com/Bielhsn)
