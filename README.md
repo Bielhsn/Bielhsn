@@ -66,7 +66,7 @@ Languages ​​& Technologies: `Oracle`, `C#`, `JavaScript`, `.Net`\
 
 **Full Stack Developer** \
 [**Imuno & Hemato**](https://imunoehemato.com.br)  \
-Languages ​​& Technologies: `TypeScript`, `React`, `Node`, `API`, `MongoDB`\
+Languages ​​& Technologies: `TypeScript`, `React`, `Go`, `Java`, `API`, `MongoDB`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://private-user-images.githubusercontent.com/113404490/431016987-ae492889-e15d-4dfe-bc81-b471fa5bf0fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4MTQxNDQsIm5iZiI6MTc0NTgxMzg0NCwicGF0aCI6Ii8xMTM0MDQ0OTAvNDMxMDE2OTg3LWFlNDkyODg5LWUxNWQtNGRmZS1iYzgxLWI0NzFmYTViZjBmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyOFQwNDE3MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYWEwOTM1ODQzYTg1ZDU3Y2VlMmUzNDMwN2I3MDZmMDAzMjlkZDQyMjAzZWMzYThlN2RlYTY0YWRkODMwZTg5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.br-87Il0ns4xYklLM5OdqfJZhS-0dICE_WK_kVcULZs"/>](https://barcellona.com.br)
