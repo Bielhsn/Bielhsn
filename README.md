@@ -1,13 +1,15 @@
 ## 👋 Hello, my name is Gabriel Henrique!
 
-🚀 I’m a Full Stack Developer with solid experience in creating systems that work well and help people and companies in their daily routines.
-Currently, I’m taking my first steps in the field of Artificial Intelligence — I’m doing a postgraduate program in AI for Developers and starting to work on projects involving machine learning and generative AI.
 
-💡 I enjoy turning ideas into real solutions that make a difference. My goal is to keep learning and use everything I know in programming to create even smarter and more useful things with AI.
+
+My background in software development and system integration allows me to apply AI to solve real-world problems, automate repetitive tasks, and build more efficient and intelligent solutions.
+
+🚀 I am an AI Engineer focused on developing intelligent solutions, automation, and AI-powered applications that optimize processes, increase productivity, and make people's lives easier. I primarily work with Python, Generative AI (GenAI), LLMs, intelligent automation, API integration, and AI-driven solutions. I also have experience with MongoDB, Oracle SQL Developer, JavaScript, and TypeScript, along with knowledge of Java and C#.
+
+🔎 My goal is to combine Software Engineering and Artificial Intelligence to transform processes and create solutions that deliver real impact for people and businesses.
 
 Currently working on:
-- Fundamentals of AI, Machine Learning, Deep Learning and Generative AI
-- Academic projects with Python, Scikit-learn, LLMs and NLP
+- AI, Machine Learning, Deep Learning and Generative AI
 - Applied study in prompt engineering, classification and predictive analysis
 
 Other skills:
@@ -17,9 +19,9 @@ Other skills:
 
 ## Hobbies
 
-- Basketball, Muay Thai and Gym;
+- Muay Thai and Jiu-Jitsu;
 
-💬 You can see more about me at: [My portfolio](https://portifolio-project-gabrielhenriquehsngmailcoms-projects.vercel.app)
+💬 You can see more about me at: [My portfolio](https://portifolio-proj-git-94f3b7-gabrielhenriquehsngmailcoms-projects.vercel.app/)
 ---
 
 ## 🚀 My Skills
